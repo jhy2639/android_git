@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
 
                 String b = "abbb";
 
+                String a1 = "d";
+
             }
         });
 
